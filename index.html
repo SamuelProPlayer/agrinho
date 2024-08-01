@@ -1,29 +1,15 @@
-.grid {
-	width: 300px;
-	height: 300px;
-	border: solid black 1px;
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.grid div {
-	width: 20px;
-	height: 20px;
-}
-
-.invader {
-	background-color: purple;
-	border-radius: 10px;
-}
-
-.shooter {
-	background-color: green;
-}
-
-.laser {
-	background-color: orange;
-}
-
-.boom {
-	background-color: red;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Space Invaders</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="game-container">
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+</div>
+<script src="game.js"></script>
+</body>
+</html>

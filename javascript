@@ -1,4 +1,4 @@
-document.getElementById('start-button').addEventListener('click', function() {
-    alert('Let the journey begin!');
-    // Add game logic here
-});
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+
+// Game code goes here
