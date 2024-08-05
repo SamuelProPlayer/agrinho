@@ -1,25 +1,47 @@
-<!DOCTYPE html>
+<!doctype html>
+
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Pong Game JavaScript</title>
+    <title>Car Racing - Charleston</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <style>
-        body{
-            background-color: dimgray;
+        body {
+            background-image: url("images/background.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-color: #000;
         }
-        #pong{
-            border: 2px solid #FFF;
+        
+        canvas {
+            border: 1px solid #d3d3d3;
+            background-color: #000;
+            display: table;
+            margin: 0 auto;
+        }
+        
+        .button {
+            background-color: #f44336;
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
             position: absolute;
-            margin :auto;
-            top:0;
-            right:0;
-            left:0;
-            bottom:0;
+            bottom: 40px;
+            left: 447px
         }
     </style>
+
 </head>
-<body>
-   <canvas id="pong" width="600" height="400"></canvas>
-   <script src="pong.js"></script>
+
+<body onload="startGame()">
+    <button onclick="game.toogle()" class="button" id="btnAction">Play</button>
+    <script src="game.js"></script>
+    <script src="libraries/jquery-git-3.3.1.js"></script>
 </body>
+
 </html>
