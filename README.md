@@ -2,7 +2,7 @@
  
  Tractor Racing, corra com seu trator em nossa Grand Prix e se torne o campeão no menor tempo possível.
  
- Pressione C para começar o jogo, use as setas para acelerar e mover o trator. Evite ficar fora da pista, pois isso irá diminuir sua velocidade. Será que você conseguirá ganhar o jogo.Use as teclas do teclado para jogar.
+ Pressione C para começar o jogo, use as setas para acelerar e mover o trator. Evite ficar fora da pista, pois isso irá diminuir sua velocidade. Use as teclas do teclado para jogar.
 
 O jogo foi desenvolvido em javascript, html e css, com a implementação do css dentro do index.html.
 
