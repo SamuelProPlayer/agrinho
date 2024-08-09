@@ -4,3 +4,4 @@ OBSERVAÇÃO: Alguns bugs no carregamento e processamento dos scripts pode acaba
 Sprites do cenário: Criado po mim com auxilio de IA https://www.shutterstock.com/pt/ai-image-generator/styles/pixel-art e pixlr.com
 Sprites do carro: Criado por mim com auxilio de IA https://creator.nightcafe.studio/ 
 Sprite do trator: Criados por mim.
+O jogo está apenas disponível para versão desktop online.
