@@ -8,7 +8,7 @@ O jogo foi desenvolvido em javascript, html e css, com a implementação do css 
 
 OBSERVAÇÃO: Alguns bugs no carregamento e processamento dos scripts pode acabar alterando o funcionamento dos sprites de vez enquando.
 
-Sprites do cenário: Criado po mim com auxilio de IA https://www.shutterstock.com/pt/ai-image-generator/styles/pixel-art e pixlr.com
+Sprites do cenário: Criado po mim com auxilio de IA https://www.shutterstock.com/pt/ai-image-generator/styles/pixel-art e pixlr.com 
 
 Sprites do carro: Criado por mim com auxilio de IA https://creator.nightcafe.studio/ 
 
