@@ -1,4 +1,8 @@
- Jogo criado para o concurso de programação agrinho 2024. Pressione C para começar o jogo, use as setas para acelerar e mover o trator. Evite ficar fora da pista, pois isso irá diminuir sua velocidade. Será que você conseguirá ganhar o jogo.
+ Jogo criado para o concurso de programação agrinho 2024.
+ 
+ Tractor Racing, corra com seu trator em nosso Grand Prix e torne o campeão no menor tempo possível.
+ 
+ Pressione C para começar o jogo, use as setas para acelerar e mover o trator. Evite ficar fora da pista, pois isso irá diminuir sua velocidade. Será que você conseguirá ganhar o jogo.Use as teclas do teclado para jogar.
 
 O jogo foi desenvolvido em javascript, html e css, com a implementação do css dentro do index.html.
 
